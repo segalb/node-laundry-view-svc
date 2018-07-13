@@ -18,7 +18,8 @@ function parseRooms(campus, htmlBody) {
 };
 
 Campus = function(sessionKey, campusName) {
-	this.roomsUrl = roomListHtmlUrlTemplate + sessionKey;
+	//roomListHtmlUrlTemplate + sessionKey;
+	this.roomsUrl = 'http://www.laundryview.com/brandeis';
 	this.name = campusName;
   this.rooms = [];
   this.PHPSESSID = '';
