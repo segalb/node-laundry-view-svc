@@ -9,7 +9,7 @@ var roomCache = {},
     campusConfigs = {
       60: {
         id:'brandeis',
-        name:'Brandies'
+        name:'brandeis'
       },
     };
 
