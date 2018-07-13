@@ -8,7 +8,7 @@ var app = express();
 var roomCache = {},
     campusConfigs = {
       60: {
-        id:'Brandies',
+        id:'brandeis',
         name:'Brandies'
       },
     };
