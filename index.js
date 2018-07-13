@@ -8,13 +8,9 @@ var app = express();
 var roomCache = {},
     campusConfigs = {
       60: {
-        id:'pcv',
+        id:'Brandies',
         name:'Brandies'
       },
-              217: {
-        id:'pcv1',
-        name:'Brandies1'
-      }
     };
 
 function setUpRoutes() {
