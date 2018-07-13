@@ -9,7 +9,11 @@ var roomCache = {},
     campusConfigs = {
       60: {
         id:'pcv',
-        name:'Peter Cooper Village'
+        name:'Brandies'
+      },
+              217: {
+        id:'pcv1',
+        name:'Brandies1'
       }
     };
 
